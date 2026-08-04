@@ -14,6 +14,7 @@ let titlepage: string= await page.title();//jQuery UI Droppable - Default functi
     console.log("title not verified successfully---fail");
    }
 console.log("radio button");
+console.log("/resources/demos/droppable/default.html");
 });
 
 test("Drag and Drop",async()=>{
